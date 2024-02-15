@@ -1,5 +1,5 @@
 # Online Retail Clustering Analysis
-
+![banner](https://github.com/kjellrkri/Portfolio/blob/main/Online%20Retail/online_retail_cluster_analysis_banner.png)
 ## Overview
 This project aims to perform clustering analysis on the Online Retail dataset obtained from the UCI Machine Learning Repository. The dataset contains transnational data for a UK-based online retail company, including all transactions occurring between 01/12/2010 and 09/12/2011. The company specializes in selling unique all-occasion gifts, and many of its customers are wholesalers.
 
