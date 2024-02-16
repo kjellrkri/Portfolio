@@ -1,5 +1,5 @@
 # Credit Card Customer Segmentation Analysis
-![banner](https://github.com/kjellrkri/Portfolio/blob/main/Online%20Retail/online_retail_cluster_analysis_banner.png)
+![banner](https://github.com/kjellrkri/Portfolio/blob/main/Credit%20Card%20Clustering%20Analysis/credit%20card%20clustering%20analysis%20banner.png)
 ## Overview
 
 This project aims to develop customer segmentation to define marketing strategy for a credit card company. The dataset used for analysis summarizes the usage behavior of approximately 9000 active credit card holders over the last 6 months. The dataset consists of 18 behavioral variables recorded at a customer level.
