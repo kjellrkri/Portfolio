@@ -70,7 +70,6 @@ This project aims to provide valuable insights into the customer segmentation of
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
----
 
 ## Author
 
