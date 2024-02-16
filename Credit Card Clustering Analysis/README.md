@@ -40,7 +40,7 @@ The primary goals of this project are as follows:
 
 ## Usage
 
-- The main script for conducting the clustering analysis is provided in the Jupyter Notebook file `credit_card_clustering_analysis.ipynb`.
+- The main script for conducting the clustering analysis is provided in the Jupyter Notebook file [credit_card_clustering_analysis.ipynb] (https://github.com/kjellrkri/Portfolio/blob/main/Credit%20Card%20Clustering%20Analysis/credit_card_clustering_analysis.ipynb).
 - Explore the results and visualizations generated during the analysis to understand the customer segmentation.
 
 
